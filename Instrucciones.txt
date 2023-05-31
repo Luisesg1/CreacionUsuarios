@@ -1,0 +1,6 @@
+1.-Extrae el contenido del archivo ZIP en una ubicación de tu elección.
+2.-La aplicación se iniciará y estará disponible en la dirección http://localhost:8090/Usuario para acceder a la lista de usuarios y http://localhost:8090/h2-console para acceder a la consola de la base de datos H2.
+3.-Para acceder a la consola de H2, asegúrate de proporcionar la siguiente configuración:
+JDBC URL: jdbc:h2:mem:testdb
+User Name: sa
+Password: (deja el campo en blanco)
